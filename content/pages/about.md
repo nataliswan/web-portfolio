@@ -1,6 +1,6 @@
 +++
 date = '2026-10-14T17:35:42+03:00'
-draft = true
+draft = false
 type="Post"
 title = 'About'
 +++
