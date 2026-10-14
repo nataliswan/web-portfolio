@@ -10,8 +10,7 @@
     weight = 50 
 
   [[main]]
-    name='Docs'
-    identifier='guides'
-    url='/doc/'
+    name='Projects'
+    pageRef = '/'
     weight=70
   

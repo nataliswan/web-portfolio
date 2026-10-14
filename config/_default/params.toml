@@ -1,14 +1,14 @@
 [homepage]
 onlyPostsInHomePage = false
 homePageLogo = true
-homePageTitle = "SANS hugo Theme"
+homePageTitle = "Добро пожаловать в мое портфолио!"
 homePageTagLine = ""
-homePageLogoPath = 'images/avatar.png'
-homePageAbout = "This is a brief documentation for SANS Hugo theme. SANS is a minimal theme for Hugo."
+homePageLogoPath = 'images/swan.png'
+homePageAbout = "Я начинающий разработчик. На этом сайте вы найдете информацию обо мне, моих навыках и проектах, над которыми я работаю."
 
-homePageCoverPath = 'image1.png'
-homePageCoverTitle = "Welcome to our blog and portfolio."
-homePageCoverTagLine = "Discover insights, stories, and ideas that inspire. Join our community of readers exploring the latest trends and timeless wisdom.SUGAM"
+# homePageCoverPath = 'image1.png'
+# homePageCoverTitle = "Welcome to our blog and portfolio."
+# homePageCoverTagLine = "Discover insights, stories, and ideas that inspire. Join our community of readers exploring the latest trends and timeless wisdom.SUGAM"
 homePageSummaryLength = 500
 homePagePostDate = false
 dateFormat = "2 Jan 2006"
@@ -18,13 +18,13 @@ showSocialLinksHome = false
 siteFont = "Georgia, UnifrakturMaguntia, serif"
 
 [social]
-facebook = 'https://facebook.com/yourpage'
-x = 'https://x.com/yourhandle'
+# facebook = 'https://facebook.com/yourpage'
+# x = 'https://x.com/yourhandle'
 # instagram = 'https://instagram.com/yourhandle'
 # linkedin = 'https://linkedin.com/in/yourprofile'
 # youtube = 'https://youtube.com/@yourchannel'
 # tiktok = 'https://tiktok.com/@yourhandle'
-github = 'https://github.com/yourusername'
+# github = 'https://github.com/yourusername'
 # reddit = 'https://reddit.com/u/yourusername'
 # pinterest = 'https://pinterest.com/yourhandle'
 # snapchat = 'https://snapchat.com/add/yourhandle'
@@ -33,7 +33,7 @@ github = 'https://github.com/yourusername'
 # telegram = 'https://t.me/yourhandle'
 # whatsapp = 'https://wa.me/yourphonenumber'
 # mastodon = 'https://mastodon.social/@yourhandle'
-bluesky = 'https://bsky.app/profile/yourhandle'
+# bluesky = 'https://bsky.app/profile/yourhandle'
 # threads = 'https://threads.net/@yourhandle'
 # medium = 'https://medium.com/@yourhandle'
 
@@ -64,12 +64,12 @@ numberingInPost = false
 [posts]
 readingSpeed = 212
 showFrontMatter = true
-showDate = true
-showWordCount = true
+showDate = false
+showWordCount = false
 showAuthors = true
 showTags = true
 showCategories = true
-showReadingTime = true
+showReadingTime = false
 dateFormat = "2 Jan 2006"
 showTagCloud = false
 showCategoryCloud = false

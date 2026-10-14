@@ -1,6 +1,6 @@
 baseURL = "https://nataliswan.github.io/web-portfolio/"
 languageCode = 'en-us'
-title = 'SANS'
+title = 'Наталия Лебедева | Портфолио'
 theme = 'sans'
 publishDir = "public"
 
